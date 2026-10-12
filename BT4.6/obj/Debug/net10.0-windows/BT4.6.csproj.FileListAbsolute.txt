@@ -1,0 +1,16 @@
+D:\VS C#\BT4.6\bin\Debug\net10.0-windows\BT4.6.exe
+D:\VS C#\BT4.6\bin\Debug\net10.0-windows\BT4.6.deps.json
+D:\VS C#\BT4.6\bin\Debug\net10.0-windows\BT4.6.runtimeconfig.json
+D:\VS C#\BT4.6\bin\Debug\net10.0-windows\BT4.6.dll
+D:\VS C#\BT4.6\bin\Debug\net10.0-windows\BT4.6.pdb
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4._6.Form1.resources
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4.6.csproj.GenerateResource.cache
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4.6.AssemblyInfoInputs.cache
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4.6.AssemblyInfo.cs
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4.6.csproj.CoreCompileInputs.cache
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4.6.dll
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\refint\BT4.6.dll
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4.6.pdb
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\BT4.6.genruntimeconfig.cache
+D:\VS C#\BT4.6\obj\Debug\net10.0-windows\ref\BT4.6.dll
